@@ -27,7 +27,7 @@ Database :- Excel
     5) Validating all data
     5) Creating Dashboard using appropriate Visualization
     
- ## Created following KPI's using DAX 
+ ## Created following measure using DAX 
  1) OT % - On Time Delivery %
  2) IF % - In Full Delivery %
  3) OTIF % - On Time In Full %
