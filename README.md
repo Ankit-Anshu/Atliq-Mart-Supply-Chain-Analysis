@@ -36,7 +36,17 @@ Database :- Excel
  6) Total Order Lines
 
 ## Things I learn while making this dashboard
-1) 
+1) FMCG Supply Chain Domain knowledge
+2) Supply Chain related terms such as OT%, IF%, OTIF%, LIFR% and VOFR%
+3) Switching between visuals using bookmarks and buttons
+4) Using Sparklines to show the highest point among months
+5) Learn how to use Dax 
 
 ## Here are few insights
-1) 
+1) OT%, IF% and OTIF% are noticeably lower than the Targeted levels
+2) Surat have good OTIF% and OT% while Ahmedabad have good IF% in compare bewteen all Cities
+3) June month show sudden drop in IF%, OT%, IF%, OTIF%, LIFR%, VOFR%
+4) In Surat Acclaimed Stores, In Ahmedabad Lotus Mart, In Vadodara Coolblue have very low level of OTIF%, OT%, IF%
+5) Diary Product have high number of order and also have high number of undelivery 
+6) AM Milk 250, AM Milk 100 are high orderd product and AM Ghee 100, AM Ghee 250 are low order product
+7) Vijay Store, Rel fresh are top customer 
