@@ -50,3 +50,14 @@ Database:- Excel
 5) Diary Products have high number of orders and also have high number of undelivery 
 6) AM Milk 250,  AM Milk 100 are high-ordered products, and AM Ghee 100, AM Ghee 250 are low-ordered products
 7) Vijay Store and Rel fresh are the top customers
+
+![Home](https://user-images.githubusercontent.com/46862749/200106323-829b1d68-284d-48a9-a83d-609eda9c9104.png)
+
+
+
+
+https://user-images.githubusercontent.com/46862749/200106457-fbc32f0d-73ab-482e-8719-ecd96d635e11.mp4
+
+
+
+
